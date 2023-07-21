@@ -1,0 +1,23 @@
+{
+  "contact": "t.me/meppci",
+  "templates": [
+    {
+      "name": "собака",
+      "sources": [
+        "https://i.imgur.com/lyeqg9I.png?1"
+      ],
+      "x": 1001,
+      "y": 454
+    },
+    {
+      "name": "фруктики",
+      "sources": [
+        "https://i.imgur.com/6IaNmGf.png?1"
+      ],
+      "x": 137,
+      "y": 669
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
