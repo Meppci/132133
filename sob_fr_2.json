@@ -1,0 +1,23 @@
+{
+  "contact": "t.me/meppci",
+  "templates": [
+    {
+      "name": "сабака пес",
+      "sources": [
+        "https://i.imgur.com/lyeqg9I.png?1"
+      ],
+      "x": 1001,
+      "y": 454
+    },
+    {
+      "name": "фруктики китики",
+      "sources": [
+        "https://i.imgur.com/5vDXmLf.png?1"
+      ],
+      "x": 137,
+      "y": 670
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
