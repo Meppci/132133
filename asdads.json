@@ -1,0 +1,15 @@
+{
+  "contact": "t.me/meppci",
+  "templates": [
+    {
+      "name": "meppci",
+      "sources": [
+        "https://i.imgur.com/VJbwEwK.png"
+      ],
+      "x": 451,
+      "y": 993
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
